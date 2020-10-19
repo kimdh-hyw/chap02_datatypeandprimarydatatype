@@ -1,6 +1,9 @@
 package sec01_datatype.EX02_NamingVariableAndConstant;
 
+/*변수와 상수의 이름 짓기*/
+
 public class NamingVariableAndConstant {
+	
 	public static void main(String[] args) {
 		
 		//#1. 변수의 이름
@@ -22,4 +25,5 @@ public class NamingVariableAndConstant {
 		final float myData; //가능은 하지만 권고사항 위배
 		
 	}
+	
 }

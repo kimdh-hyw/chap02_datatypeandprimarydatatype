@@ -1,5 +1,7 @@
 package sec02_primarydatatype.EX01_FloatVsDouble;
 
+/*float과 double의 정밀도 비교*/
+
 public class FloatVsDouble {
 	public static void main(String[] args) {
 		

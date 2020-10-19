@@ -1,5 +1,7 @@
 package sec02_primarydatatype.EX04_TypeCasting_1;
 
+/*두 가지 캐스팅 방법*/
+
 public class TypeCasting_1 {
 	public static void main(String[] args) {
 		

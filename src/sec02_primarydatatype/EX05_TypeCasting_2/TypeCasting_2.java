@@ -1,5 +1,7 @@
 package sec02_primarydatatype.EX05_TypeCasting_2;
 
+/*자동타입변환과 수동타입변환*/
+
 public class TypeCasting_2 {
 	public static void main(String[] args) {
 		
