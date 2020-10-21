@@ -3,6 +3,7 @@ package sec02_primarydatatype.EX02_PrimaryDataType_1;
 /*부울대수/정수/실수 값의 저장 및 출력*/
 
 public class PrimaryDataType_1 {
+	
 	public static void main(String[] args) {
 		
 		//#1. boolean : true / false
@@ -30,4 +31,5 @@ public class PrimaryDataType_1 {
 		System.out.println(value7); //5.0
 				
 	}
+	
 }

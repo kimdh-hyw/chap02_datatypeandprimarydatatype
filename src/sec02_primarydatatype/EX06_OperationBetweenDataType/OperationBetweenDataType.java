@@ -3,7 +3,9 @@ package sec02_primarydatatype.EX06_OperationBetweenDataType;
 /*같은 자료형간의 연산과 다른 자료형간의 연산*/
 
 public class OperationBetweenDataType {
+	
 	public static void main(String[] args) {
+		
 		//#1.같은 자료형간의 연산
 		int value1 = 3+5;
 		int value2 = 8/5; //1
@@ -20,10 +22,8 @@ public class OperationBetweenDataType {
 		System.out.println(value3);
 		System.out.println(value4);
 		System.out.println(value5);
-				
-		
-		//#2.다른 자료형간의 연산
-		
+						
+		//#2.다른 자료형간의 연산		
 		//int value6 = 5 + 3.5;
 		double value6 = 5 + 3.5;
 		int value7 =  5 + (int)3.5;
@@ -39,5 +39,7 @@ public class OperationBetweenDataType {
 		System.out.println(value8);
 		System.out.println(value9);
 		System.out.println(value10);
+		
 	}
+	
 }

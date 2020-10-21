@@ -6,7 +6,7 @@ public class NamingVariableAndConstant {
 	
 	public static void main(String[] args) {
 		
-		//#1. 변수의 이름
+		//변수의 이름
 		boolean aBcD; //가능은 하지만 권고사항 위배
 		byte 가나다;
 		short _abcd;
@@ -19,7 +19,7 @@ public class NamingVariableAndConstant {
 		String myClassName;
 		int ABC; //가능은 하지만 권고사항 위배
 		
-		//#2. 상수이름
+		//상수이름
 		final double PI;
 		final int MY_DATA;
 		final float myData; //가능은 하지만 권고사항 위배
