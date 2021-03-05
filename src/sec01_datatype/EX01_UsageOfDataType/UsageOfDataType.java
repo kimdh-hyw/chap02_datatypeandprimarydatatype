@@ -8,7 +8,7 @@ public class UsageOfDataType {
         int a = 3;		
         //변수의 선언 + 값의 대입
         int b;
-        b = 3;
+        b = 4;
         
         System.out.println(a);
         System.out.println(b);
